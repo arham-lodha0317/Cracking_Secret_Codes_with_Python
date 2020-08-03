@@ -1,0 +1,3 @@
+What does the following piece of python code print?
+
+print(len('Hello') + len('Hello'));
